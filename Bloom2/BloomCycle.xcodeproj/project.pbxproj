@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FB35E78D2E8AC8DA00EF3C48 /* Build configuration list for PBXProject "Bloom2" */;
+			buildConfigurationList = FB35E78D2E8AC8DA00EF3C48 /* Build configuration list for PBXProject "Bloom_Cycle" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -306,7 +306,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FB35E78D2E8AC8DA00EF3C48 /* Build configuration list for PBXProject "Bloom2" */ = {
+		FB35E78D2E8AC8DA00EF3C48 /* Build configuration list for PBXProject "Bloom_Cycle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FB35E79B2E8AC8DB00EF3C48 /* Debug */,
