@@ -13,5 +13,6 @@ struct Bloom2App: App {
         WindowGroup {
             ContentView()
         }
+        
     }
 }
